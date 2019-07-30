@@ -1,0 +1,2 @@
+nltk
+Wikipedia-API==0.5.1
